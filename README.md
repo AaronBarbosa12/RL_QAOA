@@ -9,7 +9,7 @@ The QAOA (https://arxiv.org/abs/1411.4028) is a variational quantum algorithm fo
 
 * The model tries to maximize the average performance of the QAOA on the MaxCut problem across a collection of 3-Regular, 4-Regular, and Erdos-Renyi graphs of varying densities.
 * The model is trained to find the optimal distribution from which to select &gamma; and &beta;, as was proposed in https://arxiv.org/pdf/2002.01068.pdf. 
-* The model also uses graph convolutions and Spatial Pyramidal Pooling (https://arxiv.org/pdf/2002.01068.pdf) as additional input features to improve the quality of the model predictions.
+* The model also uses graph convolutions and Spatial Pyramidal Pooling (https://arxiv.org/abs/1406.4729) to create additional input features to improve the quality of the model predictions.
 
 <p align="center">
   <img width="700" height="350" src="images/RL_Perf.PNG">
