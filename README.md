@@ -12,7 +12,7 @@ The QAOA (https://arxiv.org/abs/1411.4028) is a variational quantum algorithm fo
 * The model also uses graph convolutions and Spatial Pyramidal Pooling (https://arxiv.org/pdf/2002.01068.pdf) as additional input features to improve the quality of the model predictions.
 
 <p align="center">
-  <img width="300" height="300" src="images/RL_Perf.PNG">
+  <img width="600" height="350" src="images/RL_Perf.PNG">
 </p>
 
 # What I've Learned
