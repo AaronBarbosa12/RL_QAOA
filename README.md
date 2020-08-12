@@ -4,7 +4,7 @@ Optimizing the performance of the Quantum Approximate Optimizaton Algorithm (QAO
 The QAOA (https://arxiv.org/abs/1411.4028) is a variational quantum algorithm for approximating the ground state of some Hamiltonian, H. The quality of the approximation obtained from the QAOA depends on several input parameters, &gamma; and &beta; . In this project, I used reinforcement learning in order to find optimial values of &gamma; and &beta much faster than what was obtained by using classical optimization techniques alone. 
 
 <p align="center">
-  <src="images/RL_Model.PNG">
+  <img width="300" height="300" src="images/RL_Model.PNG">
 </p>
 
 * The model tries to maximize the average performance of the QAOA on the MaxCut problem across a collection of 3-Regular, 4-Regular, and Erdos-Renyi graphs of varying densities.
