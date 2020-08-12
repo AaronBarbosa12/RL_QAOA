@@ -20,6 +20,6 @@ The QAOA (https://arxiv.org/abs/1411.4028) is a variational quantum algorithm fo
 * How the QAOA works from a physics and a computational perspective
 * How reinforcement learning works from a computational and mathematical perspective 
 * How to implement Policy Gradients in a continuous action space
-* How to implement convolutional neural networks in tensorflow
+* How to implement convolutional neural networks in Tensorflow
 * How to manage .csv files in python
 * How to manage large datasets with pandas
